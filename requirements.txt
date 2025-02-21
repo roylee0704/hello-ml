@@ -8,9 +8,25 @@ ipykernel
 # numpy
 numpy
 
-# matplotlib
+# plotting
 matplotlib
-
 graphviz
 
+# deep learning
 torch
+tensorflow
+keras
+
+# gradient boosting
+xgboost
+lightgbm
+
+# machine learning essentials
+scikit-learn
+pandas
+scipy
+
+# optional but recommended for ML/DL
+# seaborn  # enhanced visualization
+# optuna   # hyperparameter optimization
+# mlflow   # experiment tracking
