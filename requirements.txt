@@ -1,0 +1,32 @@
+# environment
+python-dotenv==1.0.1
+
+# jupyter
+jupyter==1.1.1
+ipykernel
+
+# numpy
+numpy
+
+# plotting
+matplotlib
+graphviz
+
+# deep learning
+torch
+tensorflow
+keras
+
+# gradient boosting
+xgboost
+lightgbm
+
+# machine learning essentials
+scikit-learn
+pandas
+scipy
+
+# optional but recommended for ML/DL
+# seaborn  # enhanced visualization
+# optuna   # hyperparameter optimization
+# mlflow   # experiment tracking
