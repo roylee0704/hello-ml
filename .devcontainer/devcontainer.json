@@ -22,10 +22,6 @@
     ],
     "postCreateCommand": "echo 'source ~/.aliases' >> ~/.bashrc && bash /workspace/setup.sh",
     "remoteUser": "root",
-    "runArgs": [
-        "--env-file",
-        "${localWorkspaceFolder}/.env"
-    ],
     "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
     "workspaceFolder": "/workspace",
     "mounts": [
